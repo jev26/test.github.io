@@ -1,3 +1,20 @@
+_As ecology grows a more important concern, populations need not only to focus on driving less or consuming less, but also on how they consume food. It is a known fact that consuming products derived from palm oil, or meat in general is much more damaging for the environment than growing your own vegetables. During this project, we aim to expose how to be more regarding towards the environment in our daily food consumption. We will use a dataset of the Open Food Facts Database and look into where the food comes and how much it has had to travel._
+
+<p align="center">
+  <img src="openfoodfacts-logo-en-356x300.png" alt="drawing" width="150"/>
+</p>
+
+
+## Overview of the dataset
+Open Food Facts (OFF) is a crowdfunded database where people enter all kind of infomration found on the product itself. It can be characteristics of the product : the quantity, the packaging, the brand, the label, manufacturing place, store/country where it is sold and the categorie of the product. As well as the ingredients (which are then classify whether there are additive, they contain palm oil) and the nutrion facts.
+
+The provided database contains 681602 products in total coming from XXX different countries. Unfortunatly not all the countries are similarly well represented by the product, thus we decided to focus on France.
+
+Include graph nbr product per country 
+
+## Distance travelled
+
+
 
 
 ## Welcome to GitHub Pages
